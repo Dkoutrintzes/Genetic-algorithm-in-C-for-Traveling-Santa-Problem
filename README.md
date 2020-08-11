@@ -1,1 +1,6 @@
-# Genetic-algorithm-in-C-for-Traveling-Santa-Problem
+# Genetic algorithm in C for Traveling Santa Problem
+
+
+
+
+
